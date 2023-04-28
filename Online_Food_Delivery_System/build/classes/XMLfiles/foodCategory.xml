@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+ <!DOCTYPE foodCategory SYSTEM "foodCategory.dtd">
+<foodCategory>
+	<Specials>   
+            <food id="a1">
+		    <foodName>Allo Paratha</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/allo-paratha1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/allo-paratha2.jpg</food2Image>
+		    <foodDescription>Allo Paratha is a popular Indian flatbread made with whole wheat flour and stuffed with a spiced potato filling. It is typically served for breakfast or as a snack and is often accompanied by yogurt, pickles, or chutney.
+		    </foodDescription>
+	    </food>
+	    <food id="a2">
+		      <foodName>Chat</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/chhat1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/chhat2.jpg</food2Image>
+		    <foodDescription>Chat is a savory and tangy Indian street food that consists of a variety of ingredients such as boiled potatoes, chickpeas, chutneys, spices, and crispy fried dough wafers. It is a popular snack or appetizer that is enjoyed all over India and has many regional variations.
+		    </foodDescription>
+	    </food>
+	    <food id="a3">
+		     <foodName>Coconut Barfi</foodName>
+		    <foodPrice>70.00</foodPrice>
+		    <food1Image>/images/TodaySpecial/Coconut-Barfi1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/Coconut-Barfi2.jpg</food2Image>
+		    <foodDescription>Coconut Barfi is a popular Indian sweet made with shredded coconut, sugar, and milk. It has a rich and creamy texture and is often flavored with cardamom, saffron, or rose water to add a unique aroma and taste. 
+		    </foodDescription>
+	    </food>
+	    <food id="a4">
+		      <foodName>Dal Makhani</foodName>
+		    <foodPrice>40.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/Dal-Makhani1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/Dal-Makhani2.jpg</food2Image>
+		    <foodDescription>Dal Makhani is a classic Punjabi dish made with black lentils, kidney beans, butter, cream, and a blend of aromatic spices. It has a rich and creamy texture and is often served with rice or naan bread. 
+
+		    </foodDescription>
+	    </food>
+	    <food id="a5">
+		      <foodName>Dhokla</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/TodaySpecial/Dhokla1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/Dhokla2.jpg</food2Image>
+		    <foodDescription>Dhokla is a popular vegetarian snack from the state of Gujarat in India, made from fermented batter of chickpea flour, yogurt and spices. It has a light and spongy texture and is often served with a sweet and tangy chutney made from tamarind and dates.
+
+		    </foodDescription>
+	    </food>
+	    <food id="a6">
+		    <foodName>Masala Dosa</foodName>
+		    <foodPrice>50.00</foodPrice>
+		    <food1Image>/images/TodaySpecial/masala_dosa1.jpg</food1Image>
+                    <food2Image>/images/TodaySpecial/masala_dosa2.jpg</food2Image>
+		    <foodDescription>Masala Dosa is a crispy South Indian crepe made with a fermented batter of rice and lentils and stuffed with a spiced potato filling. It is often served with coconut chutney and sambar, a lentil-based vegetable stew, and is a popular breakfast item in India.
+			</foodDescription>
+	    </food>
+	</Specials>
+        
+	<Appetizers>
+		 <food id="b1">
+		    <foodName>Aloo Bonda</foodName>
+		    <foodPrice>60.00</foodPrice>
+		    <food1Image>/images/Appetizers/aloo-bonda1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/aloo-bonda2.jpg</food2Image>
+		    <foodDescription>Aloo Bonda is a popular Indian snack made by coating boiled and spiced mashed potatoes with chickpea flour and deep-frying until crispy. It is often served with a sweet and spicy chutney and is a popular street food in India.
+			</foodDescription>
+	          </food>
+	            <food id="b2">
+		    <foodName>Appam</foodName>
+		    <foodPrice>70.00</foodPrice>
+		    <food1Image>/images/Appetizers/appam1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/appam2.jpg</food2Image>
+		    <foodDescription>Appam is a type of South Indian pancake made with fermented rice batter and coconut milk. It has a soft and spongy texture with a crisp lace-like edge and is often served with coconut milk and vegetable or meat stews.
+			</foodDescription>
+	            </food>
+	    <food id="b3">
+		    <foodName>Big Appple Curry</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Appetizers/Big_appple_curry1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/Big_appple_curry2.jpg</food2Image>
+		    <foodDescription>Big Appple Curry is the appetizers that it is very sweet and delicious.
+		    </foodDescription>
+	    </food>
+	    <food id="b4">
+		    <foodName>Dal Vada</foodName>
+		    <foodPrice>60.00</foodPrice>
+		    <food1Image>/images/Appetizers/dal-vada1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/dal-vada2.jpg</food2Image>
+		    <foodDescription>Dal Vada, also known as Masala Vada, is a popular South Indian snack made with a mixture of chana dal (split chickpeas), onions, and spices. It is typically deep-fried until crispy and served hot with chutney or as a side dish with main meals.
+			</foodDescription>
+	    </food>
+	    <food id="b5">
+		    <foodName>Methi Corn Bhajiya</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/Appetizers/Methi-Corn-Bhajiya1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/Methi-Corn-Bhajiya2.jpg</food2Image>
+		    <foodDescription>Methi Corn Bhajiya is a crispy and savory Indian snack made with a batter of chickpea flour, fenugreek leaves, sweet corn, and spices. It is typically deep-fried until golden brown and served hot with chutney or ketchup as a tea-time snack or appetizer.
+			</foodDescription>
+	    </food>
+	    <food id="b6">
+		    <foodName>Panyaram</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Appetizers/panyaram1.jpg</food1Image>
+                    <food2Image>/images/Appetizers/panyaram2.jpg</food2Image>
+		    <foodDescription>Paniyaram is a popular South Indian breakfast or snack made by steaming a batter of fermented rice and urad dal in a special paniyaram pan. It has a soft and spongy texture with a crisp outer shell and is often served with coconut chutney or sambar.
+			
+		    </foodDescription>
+	    </food> 
+	</Appetizers>
+        
+	<Soup>
+		<food id="c1">
+		    <foodName>Bottle Gourd Soup</foodName>
+		    <foodPrice>40.00</foodPrice>
+		    <food1Image>/images/Soup/Bottle_gourd_soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/Bottle_gourd_soup2.jpg</food2Image>
+		    <foodDescription>Bottle Gourd Soup is a healthy and flavorful Indian soup made with bottle gourd, onions, and spices. It is often garnished with fresh herbs and served hot as a comforting and nourishing meal.
+			</foodDescription>
+	    </food>
+	    <food id="c2">
+		      <foodName>Garlic Soup</foodName>
+		    <foodPrice>30.00</foodPrice>
+		    <food1Image>/images/Soup/garlic-soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/garlic-soup2.jpg</food2Image>
+		    <foodDescription>Garlic Soup is a comforting and flavorful soup made with garlic, onions, broth, and sometimes cream or cheese. It is often garnished with fresh herbs and croutons and is believed to have many health benefits due to the antibacterial and anti-inflammatory properties of garlic.
+		    </foodDescription>
+	    </food>
+	    <food id="c3">
+		     <foodName>Lemon Coriander Soup</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/Soup/Lemon_Coriander_Soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/Lemon_Coriander_Soup2.jpg</food2Image>
+		    <foodDescription>Lemon Coriander Soup is a popular Indian soup made with a flavorful broth of vegetables, lemon juice, and fresh coriander leaves. It is often garnished with fried noodles or croutons and is believed to have many health benefits due to the antioxidant and anti-inflammatory properties of coriander.
+			</foodDescription>
+	    </food>
+	    <food id="c4">
+		    <foodName>Makai Shorba Corn Soup</foodName>
+		    <foodPrice>40.50</foodPrice>
+		    <food1Image>/images/Soup/makai_shorba_corn_coup1.jpg</food1Image>
+                    <food2Image>/images/Soup/makai_shorba_corn_coup2.jpg</food2Image>
+		    <foodDescription>Makai Shorba, also known as Corn Soup, is a popular Indian soup made with sweet corn kernels, onions, and a blend of aromatic spices. It has a creamy and slightly sweet flavor and is often garnished with fresh coriander leaves and served hot as an appetizer or a light meal.
+		    </foodDescription>
+	    </food>
+	    <food id="c5">
+		    <foodName>Mushroom Soup</foodName>
+		    <foodPrice>60.00</foodPrice>
+		    <food1Image>/images/Soup/mushroom-soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/mushroom-soup2.jpg</food2Image>
+		    <foodDescription>Mushroom Soup is a creamy and savory soup made with fresh mushrooms, onions, broth, and sometimes cream or cheese. It is often garnished with fresh herbs and served hot as an appetizer or a light meal. Mushrooms are a good source of protein, vitamins, and minerals, making this soup a nutritious and delicious option.
+		    </foodDescription>
+	    </food>
+	    <food id="c6">
+		    <foodName>Onion Soup</foodName>
+		    <foodPrice>70.50</foodPrice>
+		    <food1Image>/images/Soup/onion-soup1.jpg</food1Image>
+                    <food2Image>/images/Soup/onion-soup2.jpg</food2Image>
+		    <foodDescription>Onion Soup is a comforting and flavorful soup made with caramelized onions, beef or vegetable broth, and sometimes wine or brandy. It is often topped with croutons and melted cheese and served hot as an appetizer or a light meal. Onion Soup is a classic French dish that has gained popularity around the world for its rich and delicious flavor.
+			</foodDescription>
+	    </food>
+	 </Soup>
+            
+        <Salad>
+            <food id="d1">
+		    <foodName>Avocado Salad</foodName>
+		    <foodPrice>40.50</foodPrice>
+		    <food1Image>/images/Salads/avocado-salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/avocado-salad2.jpg</food2Image>
+		    <foodDescription>Avocado Salad is a healthy and refreshing salad made with ripe avocados, tomatoes, onions, and sometimes other vegetables or fruits. It is often dressed with a simple vinaigrette of olive oil, lemon or lime juice, salt, and pepper, and is a great source of healthy fats and vitamins. Avocado Salad is a popular dish in many parts of the world, and can be served as a side dish or a light meal.
+			</foodDescription>
+	    </food>
+	    <food id="d2">
+		      <foodName>Beetroot Salad</foodName>
+		    <foodPrice>50.00</foodPrice>
+		    <food1Image>/images/Salads/beetroot-salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/beetroot-salad2.jpg</food2Image>
+		    <foodDescription>Beetroot Salad is a colorful and nutritious salad made with roasted or boiled beets, mixed greens, feta cheese, and sometimes other vegetables or fruits. It is often dressed with a vinaigrette of olive oil, vinegar, honey, and mustard, and is a good source of fiber, vitamins, and minerals. Beetroot Salad is a popular dish in many parts of the world and is often served as a side dish or a light meal.
+			</foodDescription>
+	    </food>
+	    <food id="d3">
+		     <foodName>Chickpea Salad</foodName>
+		    <foodPrice>40.50</foodPrice>
+		    <food1Image>/images/Salads/chickpea_salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/chickpea_salad2.jpg</food2Image>
+		    <foodDescription>Chickpea Salad is a healthy and protein-rich salad made with boiled chickpeas, cucumbers, tomatoes, onions, and sometimes other vegetables or herbs. It is often dressed with a lemony or garlicky vinaigrette and is a good source of fiber, vitamins, and minerals. Chickpea Salad is a popular dish in many parts of the world and can be served as a side dish or a light meal.
+			</foodDescription>
+	    </food>
+	    <food id="d4">
+		    <foodName>Masala Lentil Salad</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Salads/masala-lentil-salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/masala-lentil-salad2.jpg</food2Image>
+		    <foodDescription>Masala Lentil Salad is a flavorful and protein-packed salad made with boiled lentils, mixed greens, onions, tomatoes, and a blend of aromatic spices. It is often dressed with a tangy and spicy vinaigrette of lemon juice, olive oil, and Indian spices such as cumin, coriander, and garam masala. Masala Lentil Salad is a popular dish in Indian cuisine and can be served as a side dish or a light meal.
+			</foodDescription>
+	    </food>
+	    <food id="d5">
+		    <foodName>Mung Salad</foodName>
+		    <foodPrice>40.50</foodPrice>
+		    <food1Image>/images/Salads/mung-salad1.jpg</food1Image>
+                    <food2Image>/images/Salads/mung-salad2.jpg</food2Image>
+		    <foodDescription>Mung Salad is a healthy and refreshing salad made with sprouted mung beans, cucumbers, tomatoes, onions, and sometimes other vegetables or fruits. It is often dressed with a simple vinaigrette of lemon juice, olive oil, salt, and pepper, and is a great source of protein, fiber, and vitamins. Mung Salad is a popular dish in many parts of Asia and can be served as a side dish or a light meal.
+		    </foodDescription>
+	    </food>
+	    <food id="d6">
+		    <foodName>Tomato with Mint Dressing</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Salads/Tomato-with-Mint-Dressing1.jpg</food1Image>
+                    <food2Image>/images/Salads/Tomato-with-Mint-Dressing2.jpg</food2Image>
+		    <foodDescription>Tomato with Mint Dressing is a refreshing and flavorful salad made with fresh tomatoes, onions, and a tangy dressing of mint, lemon juice, and olive oil. It is often garnished with fresh mint leaves and is a great source of vitamins and antioxidants. Tomato with Mint Dressing is a popular dish in many parts of the world and can be served as a side dish or a light meal.
+			</foodDescription>
+	    </food>
+        </Salad>
+        
+        <Entrees>
+            <food id="e1">
+		    <foodName>Kurma</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Entrees/kurma1.jpg</food1Image>
+                    <food2Image>/images/Entrees/kurma2.jpg</food2Image>
+		    <foodDescription>Kurma is a popular Indian dish made with a blend of aromatic spices, vegetables, and sometimes meat or tofu. The dish typically includes onions, tomatoes, ginger, garlic, and a mix of Indian spices such as cumin, coriander, turmeric, and garam masala. The vegetables are simmered in a creamy and flavorful sauce made with coconut milk or yogurt, and the dish is often served with rice or Indian bread. Kurma is a delicious and comforting dish that is enjoyed in many parts of India and around the world.
+			</foodDescription>
+	    </food>
+	    <food id="e2">
+		      <foodName>Palak Paneer</foodName>
+		    <foodPrice>70.00</foodPrice>
+		    <food1Image>/images/Entrees/palak-paneer1.jpg</food1Image>
+                    <food2Image>/images/Entrees/palak-paneer2.jpg</food2Image>
+		    <foodDescription>Palak Paneer is a popular Indian dish made with spinach (palak) and paneer (a type of Indian cheese). The dish starts by blanching or sautéing spinach leaves and then blending them into a puree. Paneer cubes are then lightly fried and added to the spinach puree, along with a blend of Indian spices, such as cumin, coriander, garam masala, and turmeric. The dish is then simmered until the flavors meld together and is often served with rice or Indian bread. Palak Paneer is a nutritious and delicious dish that is enjoyed in many parts of India and around the world.
+			</foodDescription>
+	    </food>
+	    <food id="e3">
+		     <foodName>Paneer Butter Masala</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/Entrees/paneer-butter-masala1.jpg</food1Image>
+                    <food2Image>/images/Entrees/paneer-butter-masala2.jpg</food2Image>
+		    <foodDescription>Paneer Butter Masala is a popular Indian dish made with paneer (a type of Indian cheese) cooked in a creamy tomato-based gravy. The dish includes a blend of Indian spices such as cumin, coriander, and garam masala, as well as butter and cream for richness and flavor. Paneer Butter Masala is a flavorful and comforting dish that is enjoyed in many parts of India and around the world, often served with rice or Indian bread.
+		    </foodDescription>
+	    </food>
+	    <food id="e4">
+		      <foodName>Punjabi Kadhi Pakora</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Entrees/punjabi-kadhi-pakora1.jpg</food1Image>
+                    <food2Image>/images/Entrees/punjabi-kadhi-pakora2.jpg</food2Image>
+		    <foodDescription>Punjabi Kadhi Pakora is a popular North Indian dish made with a blend of yogurt and besan (gram flour) curry, flavored with spices such as cumin, coriander, and turmeric. The dish is often served with deep-fried fritters made of besan, onions, and spices, called pakoras, and is a comforting and delicious meal.
+			</foodDescription>
+	    </food>
+	    <food id="e5">
+		    <foodName>Rajma Masala</foodName>
+		    <foodPrice>50.00</foodPrice>
+		    <food1Image>/images/Entrees/rajma-masala1.jpg</food1Image>
+                    <food2Image>/images/Entrees/rajma-masala2.jpg</food2Image>
+		    <foodDescription>Rajma Masala is a popular North Indian dish made with kidney beans (rajma) cooked in a flavorful tomato-based gravy. The dish includes a blend of Indian spices such as cumin, coriander, and garam masala, and is often served with rice or Indian bread. Rajma Masala is a comforting and nutritious dish that is enjoyed in many parts of India and around the world.
+			</foodDescription>
+	    </food>
+	    <food id="e6">
+		    <foodName>Tamarind Rice</foodName>
+		    <foodPrice>60.50</foodPrice>
+		    <food1Image>/images/Entrees/tamarind-rice1.jpg</food1Image>
+                    <food2Image>/images/Entrees/tamarind-rice2.jpg</food2Image>
+		    <foodDescription>Tamarind rice, also known as puliyogare or pulihora, is a popular South Indian dish made with cooked rice mixed with a tangy and flavorful tamarind sauce. The dish includes a blend of South Indian spices such as mustard seeds, curry leaves, and dried red chilies, as well as peanuts, cashews, and other ingredients for crunch and texture. Tamarind rice is a delicious and satisfying dish that is often served at festivals and special occasions.
+		    </foodDescription>
+	    </food>
+        </Entrees>
+        
+        <Desserts>
+            <food id="f1">
+		    <foodName>Choco</foodName>
+		    <foodPrice>60.00</foodPrice>
+		    <food1Image>/images/Desserts/Choco1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Choco2.jpg</food2Image>
+		    <foodDescription>Chocolate desserts come in many forms, from cakes and brownies to mousse and truffles. These desserts are typically made with chocolate or cocoa powder and can be rich and decadent or light and fluffy, depending on the recipe.
+
+		    </foodDescription>
+	    </food>
+	    <food id="f2">
+		      <foodName>Cone Sweet</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/Desserts/Cone-Sweet1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Cone-Sweet2.jpg</food2Image>
+		    <foodDescription>A cone sweet, also known as a jalebi, is a popular Indian sweet made by deep-frying a wheat flour and yogurt batter into spiral shapes and then soaking them in a sugar syrup flavored with cardamom or saffron. The sweet is often served warm and is crunchy on the outside with a sweet and syrupy texture on the inside, making it a favorite among those with a sweet tooth.
+			</foodDescription>
+	    </food>
+	    <food id="f3">
+		     <foodName>Jilabi</foodName>
+		    <foodPrice>40.00</foodPrice>
+		    <food1Image>/images/Desserts/Jilabi1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Jilabi2.jpg</food2Image>
+		    <foodDescription>A cone sweet, also known as a jalebi, is a popular Indian sweet made by deep-frying a wheat flour and yogurt batter into spiral shapes and then soaking them in a sugar syrup flavored with cardamom or saffron. The sweet is often served warm and is crunchy on the outside with a sweet and syrupy texture on the inside, making it a favorite among those with a sweet tooth.
+			</foodDescription>
+	    </food>
+	    <food id="f4">
+		      <foodName>Payasam</foodName>
+		    <foodPrice>30.50</foodPrice>
+		    <food1Image>/images/Desserts/Payasam1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Payasam2.jpg</food2Image>
+		    <foodDescription>Payasam, also known as kheer, is a sweet and creamy Indian dessert made with milk, sugar, and rice, vermicelli, or other grains. The dish is flavored with Indian spices such as cardamom, saffron, and nutmeg, and is often garnished with nuts and raisins, making it a delicious and comforting dessert that is enjoyed in many parts of India and during special occasions and festivals.
+			</foodDescription>
+	    </food>
+	    <food id="f5">
+		    <foodName>Rasgulla</foodName>
+		    <foodPrice>50.50</foodPrice>
+		    <food1Image>/images/Desserts/Rasgulla1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Rasgulla2.jpg</food2Image>
+		    <foodDescription>Rasgulla is a popular dessert in India, made by boiling small balls of chenna (cottage cheese) in a sugar syrup. The soft and spongy balls soak up the syrup, resulting in a sweet and indulgent dessert that is often served chilled.
+			</foodDescription>
+	    </food>
+	    <food id="f6">
+		    <foodName>Trianga Cake</foodName>
+		    <foodPrice>20.50</foodPrice>
+		    <food1Image>/images/Desserts/Trianga-Cake1.jpg</food1Image>
+                    <food2Image>/images/Desserts/Trianga-Cake2.jpg</food2Image>
+		    <foodDescription>Trianga cake is the represents Indian flag color. It is delicious dessert. 
+			</foodDescription>
+	    </food>
+        </Desserts>
+        
+        <Beverage>
+            <food id="g1">
+		    <foodName>Bovonto</foodName>
+		    <foodPrice>30.00</foodPrice>
+		    <food1Image>/images/Beverage/bovonto1.jpg</food1Image>
+                    <food2Image>/images/Beverage/bovonto2.jpg</food2Image>
+		    <foodDescription>Bovonto is a popular carbonated soft drink in India, known for its unique and fruity taste. The drink comes in several flavors such as grape, orange, pineapple, and strawberry, and is enjoyed by people of all ages.
+			</foodDescription>
+	    </food>
+	    <food id="g2">
+		      <foodName>Buttermilk</foodName>
+		    <foodPrice>20.50</foodPrice>
+		    <food1Image>/images/Beverage/Buttermilk1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Buttermilk2.jpg</food2Image>
+		    <foodDescription>Buttermilk is a popular dairy-based beverage made by blending yogurt, water, and spices such as cumin, coriander, and mint. It is a refreshing and healthy drink that is popular in India and many other countries, especially during the hot summer months.
+			</foodDescription>
+	    </food>
+	    <food id="g3">
+		     <foodName>Coffee</foodName>
+		    <foodPrice>20.00</foodPrice>
+		    <food1Image>/images/Beverage/coffee1.jpg</food1Image>
+                    <food2Image>/images/Beverage/coffee2.jpg</food2Image>
+		    <foodDescription>Coffee is a popular beverage made from roasted coffee beans and hot water, often served with milk, cream, or sugar. It has a unique and complex flavor that can vary depending on the type of bean, roast level, and brewing method used, and is enjoyed by people all over the world.
+			</foodDescription>
+	    </food>
+	    <food id="g4">
+		      <foodName>Lemon Juice</foodName>
+		    <foodPrice>30.00</foodPrice>
+		    <food1Image>/images/Beverage/lemon-juice1.jpg</food1Image>
+                    <food2Image>/images/Beverage/lemon-juice2.jpg</food2Image>
+		    <foodDescription>Lemon juice is a refreshing and tangy drink made by squeezing fresh lemon juice into water and adding sugar or honey to taste. It is a popular summer drink in many parts of the world, known for its ability to quench thirst and provide a dose of vitamin C. Lemon juice is also used in cooking and baking as a flavoring agent.
+			</foodDescription>
+	    </food>
+	    <food id="g5">
+		    <foodName>Masala Tea</foodName>
+		    <foodPrice>50.00</foodPrice>
+		    <food1Image>/images/Beverage/Masala-tea1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Masala-tea2.jpg</food2Image>
+		    <foodDescription>Masala tea, also known as chai, is a popular beverage in India and other parts of the world. It is made by boiling tea leaves in water along with a mixture of spices such as cinnamon, ginger, cardamom, cloves, and black pepper. The tea is then sweetened with sugar or honey and served hot with or without milk. Masala tea is a flavorful and aromatic drink that is known for its energizing and soothing properties.
+			</foodDescription>
+	    </food>
+	    <food id="g6">
+		    <foodName>Nannari Sarbath</foodName>
+		    <foodPrice>20.50</foodPrice>
+		    <food1Image>/images/Beverage/Nannari-Sarbath1.jpg</food1Image>
+                    <food2Image>/images/Beverage/Nannari-Sarbath2.jpg</food2Image>
+		    <foodDescription>Nannari Sarbath is a popular drink in South India made from the roots of the nannari plant, also known as Indian sarsaparilla. The roots are boiled in water along with sugar and other ingredients such as lemon juice and ginger to create a refreshing and cooling drink that is perfect for hot summer days. Nannari Sarbath is also believed to have various health benefits such as improving digestion and detoxifying the body.
+			</foodDescription>
+	    </food>
+        </Beverage>
+</foodCategory>
